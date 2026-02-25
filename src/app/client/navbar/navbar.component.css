@@ -1,0 +1,9 @@
+ body {
+    padding-bottom: 64px; /* Hauteur du bottom menu */
+  }
+  
+  @media (min-width: 768px) {
+    body {
+      padding-bottom: 0;
+    }
+  }
